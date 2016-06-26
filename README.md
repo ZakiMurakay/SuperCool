@@ -1,3 +1,3 @@
 # SuperCool
 
-Doing iOS Tutorial from Devslope
+Doing iOS Tutorial from Devslopes
